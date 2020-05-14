@@ -1,0 +1,52 @@
+img {
+  width: 50px;
+}
+#face {
+  position: fixed;
+  width: 400px;
+  z-index: 0;
+  top: 200px;
+}
+#eyes2 {
+  position: fixed;;
+  z-index: 1;
+  width: 200px;
+  height: auto;
+  padding: 0;
+  left: 110px;
+  top: 350px;
+}
+
+#hair1 {
+  position: fixed;
+  z-index: 2;
+  width: 320px;
+  top: 180px;
+  left: 50px;
+}
+
+#ears1 {
+  position: fixed;
+  z-index: 1;
+  width: 410px;
+  top: 230px;
+  left: 0px;
+}
+
+#nose1 {
+  position: fixed;
+  z-index: 1;
+  width: 80px;
+  top: 400px;
+  left: 160px;
+}
+
+#mouth2 {
+  position: fixed;
+  z-index: 2;
+  width: 150px;
+  top: 500px;
+  left: 130px;
+}
+
+
